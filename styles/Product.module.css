@@ -1,0 +1,6 @@
+/* we don't style html tag directly like h1{ color: red;} */
+
+/* we must use class as a reference */
+.product h1{
+  color: blueviolet;
+}

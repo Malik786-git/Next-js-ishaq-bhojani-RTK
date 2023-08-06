@@ -1,0 +1,12 @@
+Two type of compilation like in NEXT.js server side rendering..
+This term refer to client side libraries like react, vue, angular etc.. for final build..
+
+AOT (A head of Time)
+all request data save in cache.. data fetch on before request..
+npm run build
+after build in next js.
+npm run start (give page on build pages..)
+ 
+JIT (Just in Time)
+request data give on request call, when need to give data on request..
+example npm run dev (give pages on run time.)
