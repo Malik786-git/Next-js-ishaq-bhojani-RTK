@@ -6,7 +6,7 @@ const index = () => {
       
     <Navbar/>
 
-     <h1 className="heading_style">Home Page</h1>
+     <h1 className="heading_style">Home Page From Q Tech</h1>
     </div>
   )
 }
